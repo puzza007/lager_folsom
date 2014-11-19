@@ -1,0 +1,7 @@
+%% -*- mode: erlang -*-
+{application, lager_folsom,
+ [{description, "Folsom backend for Lager"},
+  {vsn, "0.1.0"},
+  {applications, [kernel, stdlib, folsom]}
+ ]
+}.
