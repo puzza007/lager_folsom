@@ -7,9 +7,8 @@ Add `lager_folsom` to your `rebar.config` deps:
 ``` erlang
 {deps,
  [
-  {lager_folsom, "",
-   {git, "https://github.com/puzza007/lager_folsom.git",
-    {tag, "0.1.0"}}}
+   {lager_folsom, "1.0.0"},
+   ...
  ]}.
 ```
 
