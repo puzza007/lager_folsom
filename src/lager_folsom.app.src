@@ -2,6 +2,7 @@
 {application, lager_folsom,
  [{description, "Folsom backend for Lager"},
   {vsn, "1.0.0"},
-  {applications, [kernel, stdlib, folsom]}
+  {applications, [kernel, stdlib, folsom]},
+  {licenses, ["MIT"]}
  ]
 }.
