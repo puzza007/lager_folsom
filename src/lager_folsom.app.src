@@ -1,8 +1,9 @@
 %% -*- mode: erlang -*-
 {application, lager_folsom,
  [{description, "Folsom backend for Lager"},
-  {vsn, "1.0.0"},
+  {vsn, "1.0.1"},
   {applications, [kernel, stdlib, folsom]},
+  {links, [{"Github", "https://github.com/puzza007/lager_folsom"}]},
   {licenses, ["MIT"]}
  ]
 }.
