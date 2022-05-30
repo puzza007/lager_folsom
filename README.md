@@ -1,5 +1,7 @@
 # lager_folsom
 
+[![Hex pm](http://img.shields.io/hexpm/v/lager_folsom.svg?style=flat)](https://hex.pm/packages/lager_folsom)
+
 ## Configuration
 
 Add `lager_folsom` to your `rebar.config` deps:
